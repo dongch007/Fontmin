@@ -1,0 +1,15 @@
+{
+  "name": "fontmin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "fontmin": "^0.9.9",
+    "package.json": "^2.0.1"
+  },
+  "bin": "./index.js",
+  "pkg": {
+    "scripts": "index.js",
+    "assets": "node_modules/fontmin"
+  }
+}
