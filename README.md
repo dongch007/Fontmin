@@ -3,7 +3,7 @@
 
 
 ## Build
-npm install package.json
+npm install package.json\
 pkg package.json
 
 ## Use
